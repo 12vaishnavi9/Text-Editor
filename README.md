@@ -1,0 +1,1 @@
+The Text Editor App is a powerful and user-friendly application designed to create, edit, and manage plain text documents efficiently. With a clean and intuitive interface, it offers a range of features that cater to various writing and editing needs. It is built using HTML, CSS & Javascript.
